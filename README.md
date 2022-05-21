@@ -11,10 +11,10 @@
 </div>
 
 
-### Tecnologia em esvolução 💻
+### Tecnologia em evolução 💻
 
 <div style="display: inline_block"><br>
   
-   <a href="https://flutter.dev/" target="_blank"><img src="C:\Users\rafae\Downloads\flutter_logo.svg" target="_blank"></a> 
+   <img src="C:\Users\rafae\Downloads\flutter_logo.svg">
   
 </div>
