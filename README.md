@@ -11,9 +11,10 @@
 </div>
 
 
-### Tecnologia
+### Tecnologia em esvolução 💻
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="40" width="50" src="C:\Users\rafae\Downloads\WhatsApp Image 2022-05-20 at 20.06.42.jpeg">
+  
+ #### Flutter
   
 </div>
