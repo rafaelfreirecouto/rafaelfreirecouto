@@ -11,10 +11,4 @@
 </div>
 
 
-### Tecnologia em evolução 💻
 
-<div style="display: inline_block"><br>
-  
-   <img src="C:\Users\rafae\Downloads\flutter_logo.svg">
-  
-</div>
