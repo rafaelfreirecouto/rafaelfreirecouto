@@ -1,6 +1,7 @@
 ### Olá, me chamo Rafael Freire 😅
 
-- 🚀 Futuro Desenvolvedor Mobile - Flutter;
+- ☕ Java
+- 🚀 Futuro Desenvolvedor Mobile - Kotlin e Flutter;
 - ⏳ Metodologia ágil;
 - 💻 Estudando remotamente pela Alura Cursos Online.
 
